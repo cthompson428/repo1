@@ -6,6 +6,8 @@ using Newtonsoft.Json;
 
 namespace ConsoleApplication1
 {
+    //Cliff Thompson - Olo submission. Thank you for your time and consideration
+    
     class Program
     {
         private const string _url = "http://files.olo.com/pizzas.json";
